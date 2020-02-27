@@ -1,6 +1,9 @@
+// https://modoocode.com/204
+// 연산자 오버로딩 프로젝트
+// N차원 배열 제작
+
 #include<iostream>
 using namespace std;
-
 
 namespace MyArray {
 	class Array;
